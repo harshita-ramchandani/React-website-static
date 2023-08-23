@@ -13,7 +13,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/React-website-static">
         <Navbar/>
         <Routes>
          <Route path="/" exact element={<Home/>}/> 
