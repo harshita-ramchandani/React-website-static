@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ab7d03cdb365b2c8e525",
+    "revision": "8f3c324b6906a86273cd",
     "url": "/React-website-static/static/css/main.b40bd14c.chunk.css"
   },
   {
-    "revision": "ab7d03cdb365b2c8e525",
-    "url": "/React-website-static/static/js/main.5ea4396c.chunk.js"
+    "revision": "8f3c324b6906a86273cd",
+    "url": "/React-website-static/static/js/main.aeebafee.chunk.js"
   },
   {
     "revision": "d248af2799fdc0342547",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/React-website-static/static/media/pizzaLeft.e29e930c.jpg"
   },
   {
-    "revision": "1f9f08871a7d5d43116ce919bea5b598",
+    "revision": "c65f97d362ae753e238acdf287d50644",
     "url": "/React-website-static/index.html"
   }
 ];
